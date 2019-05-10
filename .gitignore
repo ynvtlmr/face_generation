@@ -1,6 +1,6 @@
 ### Project Specific ###
 *.zip
-processed_celeba_small
+# processed_celeba_small
 
 ### macOS ###
 # General
